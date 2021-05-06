@@ -1,5 +1,6 @@
-# cra-ecom-back-end-swe1
+# Rocket Academy Coding Bootcamp: Create React App E-Commerce Backend
 
+## DB Setup
 ```
 npx sequelize db:create
 npx sequelize db:migrate
